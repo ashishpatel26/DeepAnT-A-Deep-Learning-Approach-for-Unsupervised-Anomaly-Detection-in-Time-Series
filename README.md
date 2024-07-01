@@ -1,5 +1,4 @@
 "DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series".
-
 ---
 
 # DeepAnT: Unsupervised Anomaly Detection in Time Series
@@ -193,3 +192,10 @@ After running the model on the synthetic data, you should see a plot of the true
 1. Munir, M., Siddiqui, S. A., Dengel, A., & Ahmed, S. (2019). DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series. IEEE Access, 7, 1991-2005. DOI: [10.1109/ACCESS.2018.2886457](https://ieeexplore.ieee.org/document/8581424)
 
 ---
+
+
+
+
+
+
+
