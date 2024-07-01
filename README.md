@@ -1,4 +1,4 @@
-Certainly! Below is an interactive README file for a GitHub repository that explains everything about the code and the paper "DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series".
+"DeepAnT: A Deep Learning Approach for Unsupervised Anomaly Detection in Time Series".
 
 ---
 
